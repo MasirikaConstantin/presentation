@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NW Technology - Site en Construction</title>
+    <title>Niwy Technology - Site en Construction</title>
     <link href="https://fonts.googleapis.com/css2?family=Product+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -369,10 +369,10 @@
     <div class="container">
         <div class="logo-container">
             <!-- Remplacez le src par le chemin vers votre logo -->
-            <img src="logo.jpeg" alt="NW Technology Logo" class="logo">
+            <img src="logo.jpeg" alt="Niwy Technology Logo" class="logo">
         </div>
 
-        <h1>NW TECHNOLOGY</h1>
+        <h1>Niwy TECHNOLOGY</h1>
         <p class="construction-text">🚀 Site en Construction</p>
         <p class="description">
             Nous travaillons dur pour vous offrir une expérience exceptionnelle.
@@ -404,13 +404,13 @@
                 <div class="contact-item">
                     <i class="fas fa-envelope"></i>
                     <div>
-                        <a href="mailto:elconstant73@gmail.com">Contactez nous par mail</a>
+                        <a href="mailto:elconstant73@gmail.com">elconstant73@gmail.com</a>
                     </div>
                 </div>
                 <div class="contact-item">
                     <i class="fas fa-phone"></i>
                     <div>
-                        <a href="tel:+243896524395">Ou par appel</a>
+                        <a href="tel:+243896524395">+243 896 524 395</a>
                     </div>
                 </div>
             </div>
@@ -439,7 +439,7 @@
         </div>
 
         <footer>
-            <p>&copy; <?php echo date('Y'); ?> NW Technology. Tous droits réservés.</p>
+            <p>&copy; <?php echo date('Y'); ?> Niwy Technology. Tous droits réservés.</p>
             <p style="margin-top: 10px; font-style: italic;">Progress with us</p>
         </footer>
     </div>
